@@ -1,0 +1,9 @@
+To read all dep packages use:
+pip freeze > requirements.txt
+
+To install all dep packages use:
+pip install -r requirements.txt
+
+.env
+-----
+The .env file is read from by server.py from its directory
